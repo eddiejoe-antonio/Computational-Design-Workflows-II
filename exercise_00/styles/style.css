@@ -1,0 +1,13 @@
+
+* {
+    padding: 10px;
+}
+
+html,
+body {
+    font-family: Arial, sans-serif;
+}
+
+.gsapp {
+    color: rgb(97, 173, 198);
+}
