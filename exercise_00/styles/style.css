@@ -6,6 +6,9 @@
 html,
 body {
     font-family: Arial, sans-serif;
+    align-items: center;
+    justify-items: center;
+    width: 500px;
 }
 
 .gsapp {
