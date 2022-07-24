@@ -1,0 +1,18 @@
+.counter-result {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200px;
+    color: crimson;
+    align-items: center;
+    margin-top: 250px;
+    margin-left: 700px;
+}
+
+.counter-minus {
+    font-size: 50px;
+    margin-left: 670px;
+}
+
+
+.counter-plus {
+    font-size: 50px;
+}

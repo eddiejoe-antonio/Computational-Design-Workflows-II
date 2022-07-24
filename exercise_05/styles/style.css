@@ -1,0 +1,10 @@
+button {
+    width: 200px;
+    height: 50px;
+}
+
+.flat {
+    background-color: tomato;
+    border-radius: 25px;
+    border: 0;
+}

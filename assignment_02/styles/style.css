@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://cdn.vox-cdn.com/thumbor/mxm92ba4bXa1_dXCnu5ywDAep44=/0x0:1000x669/1200x0/filters:focal(0x0:1000x669):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6087685/04_kensinger_bush_terminal_park_DSC_5166.0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+}
+
+.header {
+    display: flex;
+    color: white;
+    font-size: 12px;
+    padding-top: 280px;
+    padding-left: 800px;
+}
+
+.form-question{
+    border: white;
+    display: flex;
+    padding-left: 800px;
+}
+
+.button-submit {
+    background-color: #99cc00;
+    border-color: white;
+    color: white;
+}
+
+.character-limit {
+    font-size: 10px;
+    color: lightgrey;
+}
+
+.latest-content {
+    color:antiquewhite;
+    font-size: 20px;
+}

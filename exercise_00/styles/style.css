@@ -1,16 +1,16 @@
 
 * {
     padding: 10px;
+    background-color: lemonchiffon;
 }
 
 html,
 body {
     font-family: Arial, sans-serif;
-    align-items: center;
-    justify-items: center;
-    width: 500px;
+    text-align: center;
 }
 
 .gsapp {
+    font-size: 100px;
     color: rgb(97, 173, 198);
 }
